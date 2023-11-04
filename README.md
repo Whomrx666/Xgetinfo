@@ -30,12 +30,8 @@ X-GET INFO - Simple Information Toolkit
 -  pkg install git
 -  git clone https://github.com/Whomrx666/Xgetinfo.git
 -  cd Xgetinfo
--  bash install.sh
+-  pip install -r requirements.txt
 -  python Xgetinfo.py
-```
-### Execution
-```bash
--  run command by type getinfo
 ```
 
 - Uninstallation

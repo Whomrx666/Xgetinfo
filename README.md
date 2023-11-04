@@ -25,7 +25,7 @@ X-GET INFO - Simple Information Toolkit
 -  pkg install python
 -  pkg install python2
 -  pkg install python3
--  python3 -m pip install homeassistant
+-  python -m pip install homeassistant
 -  pkg install bash
 -  pkg install git
 -  git clone https://github.com/Whomrx666/Xgetinfo.git

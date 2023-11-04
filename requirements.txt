@@ -1,4 +1,4 @@
 lxml
 requests
-email-validator
 googlesearch-python
+email-validator

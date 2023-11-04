@@ -31,6 +31,7 @@ X-GET INFO - Simple Information Toolkit
 -  git clone https://github.com/Whomrx666/Xgetinfo.git
 -  cd Xgetinfo
 -  python3 -m pip install -r requirements.txt
+-  pip install -r requirements.txt
 -  python Xgetinfo.py
 ```
 

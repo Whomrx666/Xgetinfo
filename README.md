@@ -30,6 +30,9 @@ X-GET INFO - Simple Information Toolkit
 -  cd Xgetinfo
 -  bash install.sh
 -  python Xgetinfo.py
+```
+### Execution
+```bash
 -  run command by type getinfo
 ```
 

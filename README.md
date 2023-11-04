@@ -30,7 +30,7 @@ X-GET INFO - Simple Information Toolkit
 -  pkg install git
 -  git clone https://github.com/Whomrx666/Xgetinfo.git
 -  cd Xgetinfo
--  pip install -r requirements.txt
+-  python3 -m pip install -r requirements.txt
 -  python Xgetinfo.py
 ```
 

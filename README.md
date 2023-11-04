@@ -35,7 +35,7 @@ X-GET INFO - Simple Information Toolkit
 ```
 
 - Uninstallation
-- Linux and Termux: ```rm -rf $PREFIX/bin/getinfo```
+- Termux: ```rm -rf $PREFIX/bin/getinfo```
 
 ### Tools Overview
 |Termux|

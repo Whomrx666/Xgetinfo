@@ -1,5 +1,6 @@
-<img title="Xgetinfo" src="https://img.shields.io/badge/CODENAME%20-getinfo-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="Xgetinfo" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
+<img title="Xgetinfo" src="https://img.shields.io/badge/CODENAME%20-Xgetinfo-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="Xgetinfo" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
 <img src="https://github.com/Whomrx666/Xgetinfo/blob/main/src/Xgetinfo.png">
+
 X-GET INFO - Simple Information Toolkit
 
 ### Features

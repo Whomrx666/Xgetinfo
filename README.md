@@ -26,10 +26,10 @@ X-GET INFO - Simple Information Toolkit
 -  python3 -m pip install homeassistant
 -  pkg install bash
 -  pkg install git
--  git clone https://github.com/majidtdeni666/getinfo.git
--  cd getinfo
+-  git clone https://github.com/Whomrx666/Xgetinfo.git
+-  cd Xgetinfo
 -  bash install.sh
--  python Xget.py
+-  python Xgetinfo.py
 -  run command by type getinfo
 ```
 

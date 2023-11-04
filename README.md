@@ -17,11 +17,11 @@ X-GET INFO - Simple Information Toolkit
 - ```riplookup``` - reverse ip lookup
 - ```iplocation``` - ip to location tracker
 
-### Installation
+### Installation Termux
 ```bash
 -  pkg update && pkg upgrade
 -  pkg install libxml2
--  PKG install libxml
+-  Pkg install libxslt
 -  pkg install python
 -  pkg install python2
 -  pkg install python3
@@ -42,7 +42,7 @@ X-GET INFO - Simple Information Toolkit
 - Linux and Termux: ```rm -rf $PREFIX/bin/getinfo```
 
 ### Tools Overview
-|Linux and Termux|
+|Termux|
 | ------------ |
 |![f](https://github.com/Whomrx666/Xgetinfo/blob/main/src/2.png)|
 

@@ -20,6 +20,8 @@ X-GET INFO - Simple Information Toolkit
 ### Installation
 ```bash
 -  pkg update && pkg upgrade
+-  pkg install libxml2
+-  PKG install libxml
 -  pkg install python
 -  pkg install python2
 -  pkg install python3

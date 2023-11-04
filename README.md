@@ -28,7 +28,7 @@ X-GET INFO - Simple Information Toolkit
 -  git clone https://github.com/majidtdeni666/getinfo.git
 -  cd getinfo
 -  bash install.sh
-- python Xget.py
+-  python Xget.py
 -  run command by type getinfo
 ```
 

@@ -44,5 +44,9 @@ X-GET INFO - Simple Information Toolkit
 |![f](https://github.com/Whomrx666/Xgetinfo/blob/main/src/2.png)|
 
 - <i>picture by [Mr.X](https://www.youtube.com/@whomrx666)</i>
+
+**If you want to donate, click on the button**
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Xgetinfo-yellow?style=for-the-badge&logo=github"></a>
+
 ### Credits
 Copyright ©2023 by <a href="https://www.youtube.com/@whomrx666">Mr.X</a>
